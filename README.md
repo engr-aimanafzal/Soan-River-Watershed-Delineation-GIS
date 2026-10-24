@@ -33,26 +33,56 @@ The hydrological model was executed using the ArcGIS Spatial Analyst toolbox. Th
 ## 🖼️ Visuals
 
 ### Final Result
-**Final Watershed Delineation Map:**
+**Final Watershed Delineation Map**
 ![Final Map](./images/04_final_output/final_map.png)
 
+---
+
 ### Workflow Gallery
-**1. Data Preparation (DEM Processing):**
-<img width="596" height="429" alt="raw_dem" src="https://github.com/user-attachments/assets/22925128-8fbe-4dc2-afb5-a4493549f5d2" />
-<img width="636" height="424" alt="filled_dem" src="https://github.com/user-attachments/assets/40b72b9a-c45e-4ddf-95bd-3dba6ececc0b" />
-<img width="615" height="434" alt="projected_dem" src="https://github.com/user-attachments/assets/84753462-bc6e-4c10-9064-dc21c46e99b3" />
 
-**2. Flow Analysis:**
+**1. Data Preparation (DEM Processing)**
 
-<img width="496" height="383" alt="flow_direction" src="https://github.com/user-attachments/assets/c3f704b6-509a-41d4-b3b6-fc8f3e568024" />
-<img width="496" height="383" alt="flow_direction_zoomed" src="https://github.com/user-attachments/assets/c405df8d-2b75-4db9-9955-c6138eabcd5c" />
-<img width="496" height="399" alt="flow_accumulation" src="https://github.com/user-attachments/assets/00cd4a1b-88ff-4c43-869c-76e64ac6ff2b" />
+*Raw DEM*
+<img width="500" alt="raw_dem" src="https://github.com/user-attachments/assets/22925128-8fbe-4dc2-afb5-a4493549f5d2" />
 
+*Projected DEM*
+<img width="500" alt="projected_dem" src="https://github.com/user-attachments/assets/84753462-bc6e-4c10-9064-dc21c46e99b3" />
 
-**3. Stream and Watershed Delineation:**
-<img width="589" height="564" alt="pour_point" src="https://github.com/user-attachments/assets/ee78cd35-09e2-499a-b903-f44efc0c3f52" />
-<img width="1246" height="760" alt="stream_definition" src="https://github.com/user-attachments/assets/0ff70ca9-6ddd-4ba7-b09e-47d7ebd87bc4" />
-<img width="2225" height="1212" alt="watershed_output" src="https://github.com/user-attachments/assets/7b7b0b50-b33b-4ec2-92bf-22690200d524" />
+*Filled DEM*
+<img width="500" alt="filled_dem" src="https://github.com/user-attachments/assets/40b72b9a-c45e-4ddf-95bd-3dba6ececc0b" />
+
+<br>
+
+**2. Flow Analysis**
+
+*Flow Direction*
+<img width="500" alt="flow_direction" src="https://github.com/user-attachments/assets/c3f704b6-509a-41d4-b3b6-fc8f3e568024" />
+
+*Zoomed Flow Direction*
+<img width="500" alt="flow_direction_zoomed" src="https://github.com/user-attachments/assets/c405df8d-2b75-4db9-9955-c6138eabcd5c" />
+
+*Flow Accumulation*
+<img width="500" alt="flow_accumulation" src="https://github.com/user-attachments/assets/00cd4a1b-88ff-4c43-869c-76e64ac6ff2b" />
+
+<br>
+
+**3. Stream and Watershed Delineation**
+
+*Pour Point Definition*
+<img width="500" alt="pour_point" src="https://github.com/user-attachments/assets/ee78cd35-09e2-499a-b903-f44efc0c3f52" />
+
+*Stream Definition*
+<img width="500" alt="stream_definition" src="https://github.com/user-attachments/assets/0ff70ca9-6ddd-4ba7-b09e-47d7ebd87bc4" />
+
+*Watershed Output*
+<img width="500" alt="watershed_output" src="https://github.com/user-attachments/assets/7b7b0b50-b33b-4ec2-92bf-22690200d524" />
+
+---
+
+## 📁 Presentation & Documentation
+*Due to file size and proprietary software constraints, the raw ArcMap `.mxd` files and geodatabases are not included in this repository. The complete step-by-step workflow, intermediate tool outputs, and results are fully documented in the attached presentation.*
+
+👉 **[Click here to view the full project presentation (PDF)](./Watershed_Delineation_Soan_River.pdf)**
 
 ## 📁 Presentation & Documentation
 *Due to file size and proprietary software constraints, the raw ArcMap `.mxd` files and geodatabases are not included in this repository. The complete step-by-step workflow, intermediate tool outputs, and results are fully documented in the attached presentation.*

@@ -38,18 +38,20 @@ The hydrological model was executed using the ArcGIS Spatial Analyst toolbox. Th
 
 ### Workflow Gallery
 **1. Data Preparation (DEM Processing):**
-![Raw DEM](./images/01_data_prep/raw_dem.png)
-![Projected DEM](./images/01_data_prep/projected_dem.png)
-![Filled DEM](./images/01_data_prep/filled_dem.png)
+<img width="596" height="429" alt="raw_dem" src="https://github.com/user-attachments/assets/22925128-8fbe-4dc2-afb5-a4493549f5d2" />
+<img width="636" height="424" alt="filled_dem" src="https://github.com/user-attachments/assets/40b72b9a-c45e-4ddf-95bd-3dba6ececc0b" />
+<img width="615" height="434" alt="projected_dem" src="https://github.com/user-attachments/assets/84753462-bc6e-4c10-9064-dc21c46e99b3" />
 
 **2. Flow Analysis:**
-![Flow Direction](./images/02_flow_analysis/flow_direction.png)
-![Flow Accumulation](./images/02_flow_analysis/flow_accumulation.png)
+<img width="496" height="383" alt="flow_direction" src="https://github.com/user-attachments/assets/c3f704b6-509a-41d4-b3b6-fc8f3e568024" />
+<img width="496" height="383" alt="flow_direction_zoomed" src="https://github.com/user-attachments/assets/c405df8d-2b75-4db9-9955-c6138eabcd5c" />
+<img width="496" height="399" alt="flow_accumulation" src="https://github.com/user-attachments/assets/00cd4a1b-88ff-4c43-869c-76e64ac6ff2b" />
 
 **3. Stream and Watershed Delineation:**
-![Stream Definition](./images/03_streams_and_watershed/stream_definition.png)
-![Pour Point](./images/03_streams_and_watershed/pour_point.png)
-![Watershed Output](./images/03_streams_and_watershed/watershed_output.png)
+<img width="589" height="564" alt="pour_point" src="https://github.com/user-attachments/assets/ee78cd35-09e2-499a-b903-f44efc0c3f52" />
+<img width="1246" height="760" alt="stream_definition" src="https://github.com/user-attachments/assets/0ff70ca9-6ddd-4ba7-b09e-47d7ebd87bc4" />
+<img width="2225" height="1212" alt="watershed_output" src="https://github.com/user-attachments/assets/7b7b0b50-b33b-4ec2-92bf-22690200d524" />
+
 ## 📁 Presentation & Documentation
 *Due to file size and proprietary software constraints, the raw ArcMap `.mxd` files and geodatabases are not included in this repository. The complete step-by-step workflow, intermediate tool outputs, and results are fully documented in the attached presentation.*
 

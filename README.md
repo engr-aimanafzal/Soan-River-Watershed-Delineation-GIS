@@ -32,23 +32,24 @@ The hydrological model was executed using the ArcGIS Spatial Analyst toolbox. Th
 
 ## 🖼️ Visuals
 
+### Final Result
 **Final Watershed Delineation Map:**
 ![Final Map](./images/04_final_output/final_map.png)
 
-**Data Preparation & DEM Processing:**
+### Workflow Gallery
+**1. Data Preparation (DEM Processing):**
 ![Raw DEM](./images/01_data_prep/raw_dem.png)
 ![Projected DEM](./images/01_data_prep/projected_dem.png)
 ![Filled DEM](./images/01_data_prep/filled_dem.png)
 
-**Flow Analysis:**
+**2. Flow Analysis:**
 ![Flow Direction](./images/02_flow_analysis/flow_direction.png)
 ![Flow Accumulation](./images/02_flow_analysis/flow_accumulation.png)
 
-**Stream & Watershed Generation:**
+**3. Stream and Watershed Delineation:**
 ![Stream Definition](./images/03_streams_and_watershed/stream_definition.png)
 ![Pour Point](./images/03_streams_and_watershed/pour_point.png)
 ![Watershed Output](./images/03_streams_and_watershed/watershed_output.png)
-
 ## 📁 Presentation & Documentation
 *Due to file size and proprietary software constraints, the raw ArcMap `.mxd` files and geodatabases are not included in this repository. The complete step-by-step workflow, intermediate tool outputs, and results are fully documented in the attached presentation.*
 

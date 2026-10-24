@@ -84,7 +84,3 @@ The hydrological model was executed using the ArcGIS Spatial Analyst toolbox. Th
 
 👉 **[Click here to view the full project presentation (PDF)](./Watershed_Delineation_Soan_River.pdf)**
 
-## 📁 Presentation & Documentation
-*Due to file size and proprietary software constraints, the raw ArcMap `.mxd` files and geodatabases are not included in this repository. The complete step-by-step workflow, intermediate tool outputs, and results are fully documented in the attached presentation.*
-
-👉 **[Click here to view the full project presentation (PDF)](./Watershed_Delineation_Soan_River.pdf)**

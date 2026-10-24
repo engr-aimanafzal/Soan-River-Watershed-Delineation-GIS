@@ -42,10 +42,12 @@ The hydrological model was executed using the ArcGIS Spatial Analyst toolbox. Th
 <img width="636" height="424" alt="filled_dem" src="https://github.com/user-attachments/assets/40b72b9a-c45e-4ddf-95bd-3dba6ececc0b" />
 <img width="615" height="434" alt="projected_dem" src="https://github.com/user-attachments/assets/84753462-bc6e-4c10-9064-dc21c46e99b3" />
 
+
 **2. Flow Analysis:**
 <img width="496" height="383" alt="flow_direction" src="https://github.com/user-attachments/assets/c3f704b6-509a-41d4-b3b6-fc8f3e568024" />
 <img width="496" height="383" alt="flow_direction_zoomed" src="https://github.com/user-attachments/assets/c405df8d-2b75-4db9-9955-c6138eabcd5c" />
 <img width="496" height="399" alt="flow_accumulation" src="https://github.com/user-attachments/assets/00cd4a1b-88ff-4c43-869c-76e64ac6ff2b" />
+
 
 **3. Stream and Watershed Delineation:**
 <img width="589" height="564" alt="pour_point" src="https://github.com/user-attachments/assets/ee78cd35-09e2-499a-b903-f44efc0c3f52" />
